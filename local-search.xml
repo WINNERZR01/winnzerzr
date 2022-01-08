@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>2022第一次配置总结</title>
+    <link href="/uncategorized/2022%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%85%8D%E7%BD%AE%E6%80%BB%E7%BB%93/"/>
+    <url>/uncategorized/2022%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%85%8D%E7%BD%AE%E6%80%BB%E7%BB%93/</url>
+    
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/WINNERZR01/WINNERZR01-2022picturebed/main/gitee/202201030114579.png" alt="2021-vscode-status"></p><h1 id="Attention"><a href="#Attention" class="headerlink" title="Attention"></a>Attention</h1><blockquote><ul><li><p>备份好源文件</p><ul><li><a href="https://pan.baidu.com/s/1Q1tG4UDxAL1ZSyHeWP-D6Q">百度云</a></li><li>提取码：<code>i6z7</code></li></ul></li><li><p>添加码云用户</p><figure class="highlight bash"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs bash">git config --global user.name <span class="hljs-string">&quot;zr001&quot;</span><br>git config --global user.email <span class="hljs-string">&quot;2712119670@qq.com&quot;</span><br>ssh-keygen -t rsa -C <span class="hljs-string">&quot;2712119670@qq.com&quot;</span> <span class="hljs-comment"># 生成公钥 </span><br></code></pre></div></td></tr></table></figure></li><li><p>进入 <code>C:\Users\主机名\.ssh</code> 目录，把 <code>id_rsa.pub</code> 里面的信息复制到码云的 <code>SSH</code>公钥 中即可</p></li><li><p>进入我的仓库<code>zr001</code>，点击管理选项，点击选项初始化 <code>README.md</code> 快速开启 <code>SVN</code>访问，然后点击管理旁边的服务选项，点击<code>Gitee Pages</code>，勾选强制使用<code>Https</code>，点击启动。</p></li><li><p>添加新的相册</p><ul><li><img src="https://raw.githubusercontent.com/WINNERZR01/WINNERZR01-2022picturebed/main/gitee/202201031940610.png" alt="image-20220103194011042"></li><li>改变这两个文件内容还有对应相册的图片即可。</li></ul></li></ul></blockquote>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/uncategorized/hello-world/"/>
     <url>/uncategorized/hello-world/</url>
