@@ -223,6 +223,13 @@
   </url>
   
   <url>
+    <loc>https://winnerzr.xyz/tags/Geomagic-DesignX/</loc>
+    <lastmod>2022-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://winnerzr.xyz/tags/Python/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -231,13 +238,6 @@
   
   <url>
     <loc>https://winnerzr.xyz/tags/Anaconda/</loc>
-    <lastmod>2022-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://winnerzr.xyz/tags/Geomagic-DesignX/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -295,14 +295,14 @@
   </url>
   
   <url>
-    <loc>https://winnerzr.xyz/categories/Python/</loc>
+    <loc>https://winnerzr.xyz/categories/Geomagic-DesignX/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://winnerzr.xyz/categories/Geomagic-DesignX/</loc>
+    <loc>https://winnerzr.xyz/categories/Python/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
