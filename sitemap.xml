@@ -237,13 +237,6 @@
   </url>
   
   <url>
-    <loc>https://winnerzr.xyz/tags/Gitbook/</loc>
-    <lastmod>2022-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://winnerzr.xyz/tags/Geomagic-DesignX/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -251,7 +244,7 @@
   </url>
   
   <url>
-    <loc>https://winnerzr.xyz/tags/KeyShot/</loc>
+    <loc>https://winnerzr.xyz/tags/Gitbook/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -259,6 +252,13 @@
   
   <url>
     <loc>https://winnerzr.xyz/tags/Linux/</loc>
+    <lastmod>2022-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://winnerzr.xyz/tags/KeyShot/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -302,13 +302,6 @@
   </url>
   
   <url>
-    <loc>https://winnerzr.xyz/categories/Gitbook/</loc>
-    <lastmod>2022-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://winnerzr.xyz/categories/Geomagic-DesignX/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -316,7 +309,7 @@
   </url>
   
   <url>
-    <loc>https://winnerzr.xyz/categories/KeyShot/</loc>
+    <loc>https://winnerzr.xyz/categories/Gitbook/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -324,6 +317,13 @@
   
   <url>
     <loc>https://winnerzr.xyz/categories/Linux/</loc>
+    <lastmod>2022-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://winnerzr.xyz/categories/KeyShot/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
