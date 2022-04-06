@@ -110,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://winnerzr.xyz/Chrome/chrome%E7%94%9F%E6%88%90%E7%BD%91%E9%A1%B5%E9%95%BF%E5%9B%BE/</loc>
-    
-    <lastmod>2022-01-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://winnerzr.xyz/album/index.html</loc>
     
     <lastmod>2022-01-11</lastmod>
@@ -223,13 +214,6 @@
   </url>
   
   <url>
-    <loc>https://winnerzr.xyz/tags/Geomagic-DesignX/</loc>
-    <lastmod>2022-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://winnerzr.xyz/tags/Python/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -238,6 +222,13 @@
   
   <url>
     <loc>https://winnerzr.xyz/tags/Anaconda/</loc>
+    <lastmod>2022-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://winnerzr.xyz/tags/Geomagic-DesignX/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -272,13 +263,6 @@
   </url>
   
   <url>
-    <loc>https://winnerzr.xyz/tags/Chrome/</loc>
-    <lastmod>2022-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://winnerzr.xyz/tags/%E5%9B%BE%E5%BA%8A/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -295,14 +279,14 @@
   </url>
   
   <url>
-    <loc>https://winnerzr.xyz/categories/Geomagic-DesignX/</loc>
+    <loc>https://winnerzr.xyz/categories/Python/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://winnerzr.xyz/categories/Python/</loc>
+    <loc>https://winnerzr.xyz/categories/Geomagic-DesignX/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -331,13 +315,6 @@
   
   <url>
     <loc>https://winnerzr.xyz/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2022-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://winnerzr.xyz/categories/Chrome/</loc>
     <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
