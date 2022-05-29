@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://winnerzr.xyz/uncategorized/VS%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</loc>
+    
+    <lastmod>2022-05-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://winnerzr.xyz/uncategorized/%E4%B8%AA%E4%BA%BA%E5%AF%BC%E8%88%AA%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
+    
+    <lastmod>2022-04-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://winnerzr.xyz/uncategorized/Git%E4%BB%A3%E7%90%86%E8%AE%BE%E7%BD%AE/</loc>
     
     <lastmod>2022-04-07</lastmod>
@@ -211,7 +229,7 @@
 
   <url>
     <loc>https://winnerzr.xyz/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -219,77 +237,77 @@
   
   <url>
     <loc>https://winnerzr.xyz/tags/Windows/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/tags/Vscode/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/tags/Python/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/tags/Anaconda/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/tags/Geomagic-DesignX/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/tags/Gitbook/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/tags/KeyShot/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/tags/Linux/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2022-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://winnerzr.xyz/tags/%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/tags/%E4%BB%A3%E7%90%86/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://winnerzr.xyz/tags/%E5%9B%BE%E5%BA%8A/</loc>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -298,63 +316,63 @@
   
   <url>
     <loc>https://winnerzr.xyz/categories/Vscode/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/categories/Python/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/categories/Geomagic-DesignX/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/categories/Gitbook/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/categories/KeyShot/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/categories/Linux/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2022-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://winnerzr.xyz/categories/%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://winnerzr.xyz/categories/%E7%9F%A5%E8%AF%86%E5%82%A8%E5%A4%87/</loc>
-    <lastmod>2022-04-07</lastmod>
+    <lastmod>2022-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://winnerzr.xyz/categories/%E5%9B%BE%E5%BA%8A/</loc>
+    <lastmod>2022-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
